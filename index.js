@@ -1,9 +1,8 @@
-// Check User Login Exercise
 
-const role = "Admin";         
-const password = "TheMaster"; 
 
-// let result;
+const role = "Admins";         
+const password = "TheMasterh"; 
+
 
 if (role === "Admin") {
 
